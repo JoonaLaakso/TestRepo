@@ -14,3 +14,8 @@ a b c
 b
 c
 kissa kävelee
+^ ^
+ ^
+ .
+
+^ Tuo on laiha pikselikissa.
